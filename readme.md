@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vijay-prakash-7284ba1b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vijay%20Prakash%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:singhsidd152@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:singhsidd152@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-singhsidd152@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [aayansh152](https://github.com/aayansh152)
