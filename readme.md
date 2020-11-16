@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new web technologies and actively looking for Mern stack work opportunities.
+- 🤔 &nbsp; I am a Mern stack developer and actively looking for intern opportunities.
 - 🎓 &nbsp; Currently pursuing btech (final year) from NIT Durgapur.
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
