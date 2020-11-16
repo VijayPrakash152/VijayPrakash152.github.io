@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/aayansh152/aayansh152/master/assets/VIJAY%20PRAKASH%20Banner.png">
+ 
 
-<h2> Hey there! I'm Vijay.</h2>
+<h2> Hey there! I'm Vijay. 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
