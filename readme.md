@@ -6,6 +6,8 @@
 
 - 🤔 &nbsp; I am a Mern stack developer and actively looking for internship opportunities.
 - 🎓 &nbsp; Currently pursuing btech (final year) from NIT Durgapur.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and more Web technologies.
+- ✍️ &nbsp; Pursuing Graphic Design and Content Writing as hobbies/side hustles.
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
