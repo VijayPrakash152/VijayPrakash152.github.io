@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/aayansh152/aayansh152/master/assets/VIJAY%20PRAKASH%20Banner.png">
 
 <h2> Hey there! I'm Vijay.</h2>
 
@@ -31,9 +31,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/aayansh152">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayansh152&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayansh152&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -41,8 +41,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vijay-prakash-7284ba1b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/vijay-prakash-7284ba1b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vijay%20Prakash%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:singhsidd152@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [aayansh152](https://github.com/aayansh152)
