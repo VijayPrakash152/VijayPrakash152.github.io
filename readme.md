@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am a Mern stack developer and actively looking for internship opportunities.
+- 🤔 &nbsp; I am a Mern stack developer and a tea lover.
 - 🎓 &nbsp; Currently pursuing btech (final year) from NIT Durgapur.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web technologies.
 - ✍️ &nbsp; Pursuing Graphic Design and Content Writing as hobbies/side hustles.
