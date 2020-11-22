@@ -33,9 +33,9 @@
 
 <br/>
 
-<a href="https://github.com/aayansh152">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayansh152&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayansh152&theme=buefy&layout=compact" />
+<a href="https://github.com/VijayPrakash152">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VijayPrakash152&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayPrakash152&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vijay-prakash-7284ba1b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vijay%20Prakash%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:singhsidd152@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-singhsidd152@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:vijayprakashh06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vijayprakashh06@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [aayansh152](https://github.com/aayansh152)
+⭐️ From [VijayPrakash152](https://github.com/VijayPrakash152)
