@@ -3,7 +3,7 @@ export const projects = [
     title: "Piply",
     description:
       "Using React, context api and github api this app enables to find about github users and displays relevant information regrading them.",
-    image: "/images/1.jpg",
+    image: "/images/1.JPG",
     tags: ["React", "Github Api", "Context Api"],
     source: "https://github.com/VijayPrakash152/Piply",
     visit: "https://google.com",
@@ -13,7 +13,7 @@ export const projects = [
     title: "Huddle",
     description:
       "A react app that uses styled-components for styling and creating a landing page.",
-    image: "/images/2.jpg",
+    image: "/images/2.JPG",
     tags: ["React", "Styled Components"],
     source: "https://github.com/VijayPrakash152/StyledComponentsProject",
     visit: "https://google.com",
