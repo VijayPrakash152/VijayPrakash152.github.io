@@ -8,6 +8,7 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    cursor: url('/images/logo.png') auto;
   }
   html {
     font-size: 62.5%;
